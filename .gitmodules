@@ -1,0 +1,4 @@
+[submodule "godot"]
+	path = godot
+	url = https://github.com/CookieBadger/godot.git
+	branch = area-light-shadows
