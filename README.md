@@ -7,3 +7,5 @@ To download this repository and test the project, open a console and `cd` into t
 
 Git submodules are used to include the engine source code.
 
+My pull request in the upstream Godot repository that adds area lights:
+https://github.com/godotengine/godot/pull/108219
